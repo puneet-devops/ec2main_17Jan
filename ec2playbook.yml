@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: ec2
   connection: local
   roles:
     - ec2
