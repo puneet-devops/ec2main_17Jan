@@ -1,5 +1,5 @@
 localhost
-#[ec2]
+[ec2]
 #ansible_ssh_user=vagrant ansible_ssh_password=vagrant
 # 192.168.33.108 ansible_ssh_user=vagrant ansible_ssh_password=vagrant
 
